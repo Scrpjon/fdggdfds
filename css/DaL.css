@@ -295,7 +295,7 @@ h1 {
     color: #fff;
 }
 
-///@media only screen and (max-device-width: 459px){
+@media only screen and (max-device-width: 459px){
     header {
         width: 100%;
         position: fixed;

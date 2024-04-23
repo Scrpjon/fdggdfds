@@ -228,28 +228,28 @@ nav ul li:hover > ul {
 #dark {
     background: #fff;
     border: #fff;
-    color: rgb(0,159,205);
+    color:#000 ;
     font-size: 15px;
     font-weight: 700;
     height: 50px;
     width: 130px;
 }
 #dark:hover {
-    background: rgb(0,159,205);
+    background: #000;
     border: rgb(0,159,205);
     color: #fff;  
 }
 #light {
     background-color: #000;
     border: #000;
-    color: rgb(0,159,205);
+    color: #fff;
     font-size: 14.1px;
     font-weight: 700;
     height: 50px;
     width: 130px;
 }
 #light:hover {
-    background: rgb(0,159,205);
+    background: #fff;
     border: rgb(0,159,205);
     color: #000;  
 }
